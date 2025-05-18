@@ -1,2 +1,2 @@
 # to-do-list
-A simple to-do-list
+Um simples jeito de adicionar, sua rotina do dia a dia.
